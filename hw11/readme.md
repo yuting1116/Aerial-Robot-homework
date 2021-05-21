@@ -1,3 +1,7 @@
+程式跑不完
+所以在kf_test.cpp中註解ros::spin()
+不知道有沒有影響
+
 Result:
 
 
